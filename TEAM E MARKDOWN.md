@@ -39,3 +39,8 @@ powershell
 Languages Used
 CODE1 screenshot: https://ibb.co/1XBCfdV
 Work flow code screenshot: https://ibb.co/Z6rzM1s
+
+
+ "Workflow is committed on main branch and powershell file is pushed on master branch so attaching screenshot"
+  workflow screenshot: https://ibb.co/Pw7PHnS
+  https://ibb.co/twR53N6
